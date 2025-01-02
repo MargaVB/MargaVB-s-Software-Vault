@@ -12,8 +12,7 @@ This is a **tool** for the game '**Minion Masters**' ( (C) ***BetaDwarf*** ).
 
 * [Install Wizard] https://drive.google.com/uc?export=download&id=16RjP304bsl8yAguYtUvh8JDaK43ppmM0
 
-    As you can see the ***'MargaVB's Minion Masters Replays Manager'*** **exe file** is **not flagged at all**.
-    The ***Install Wizards File*** is being flagged by only two malware detectors which are both known for **flagging eveything** that has not been uploaded to their whitelisting database. Maybe they would like to charge developers for adding their software to the whitelist.
+    As you can see the ***'MargaVB's Minion Masters Replays Manager'*** **exe file** is **not flagged at all** by any of 72 maleware detections. The ***Install Wizards File*** is being flagged by only two malware detectors out of 72. Both are known for **flagging eveything** that has not been uploaded to their whitelisting database. Maybe they would like to charge developers for adding their software to the whitelist.
 
 ## Important: Every new version of the tool will be available via this README file on this Github repository
 
