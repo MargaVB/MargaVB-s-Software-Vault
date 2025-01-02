@@ -9,10 +9,6 @@ This is a **tool** for the game '**Minion Masters**' ( (C) ***BetaDwarf*** ).
 
 ### Google Drive
 
-#### Download link for *'MargaVB's Minion Masters Replays Manager **V0.50.3**'*:
-
-* https://drive.google.com/file/d/15hCu8Xmbpas0AJGRCu3Mx_9VHKEJeUS8/view?usp=drive_link
-
 (Send me an email to 'daddeln@ks-24-7.de' and I provide you with permissions for the download on my Google Drive)
 
 ## Purpose
