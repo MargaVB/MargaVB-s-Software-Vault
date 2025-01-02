@@ -6,14 +6,14 @@ This is a **tool** for the game '**Minion Masters**' ( (C) ***BetaDwarf*** ).
 
 * https://drive.google.com/uc?export=download&id=15hCu8Xmbpas0AJGRCu3Mx_9VHKEJeUS8
 
-#### NOTE: The download from Google Drive may not be able to finish a virus scan properly. Here are the results from VirusTotal:
+#### NOTE: The download from Google Drive may not be able to finish a virus scan properly. It only scans Documents, PDFs, and images, **not** '***.exe files***'. Here are the results from VirusTotal as an alternative:
 
 * [MMReplayManager.exe] https://drive.google.com/uc?export=download&id=1iNHy_bNvPJ7ckbM_WgCDeJtlw3pjmnuX
 
 * [Install Wizard] https://drive.google.com/uc?export=download&id=16RjP304bsl8yAguYtUvh8JDaK43ppmM0
 
     As you can see the ***'MargaVB's Minion Masters Replays Manager'*** **exe file** is **not flagged at all**.
-    The ***Install Wizards File*** is being flagged by only two malware detectors which are both known for **flagging eveything** that has not been uploaded to their whitelisting database. Of course they would like to charge developers for adding their software to the whitelist.
+    The ***Install Wizards File*** is being flagged by only two malware detectors which are both known for **flagging eveything** that has not been uploaded to their whitelisting database. Maybe they would like to charge developers for adding their software to the whitelist.
 
 ## Important: Every new version of the tool will be available via this README file on this Github repository
 
