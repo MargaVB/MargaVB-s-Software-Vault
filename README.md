@@ -8,7 +8,7 @@ This is a **tool** for the game '**Minion Masters**' ( (C) ***BetaDwarf*** ).
 
 #### NOTE: The download from Google Drive may not be able to finish a virus scan properly. It only scans Documents, PDFs, and images, **not** '***.exe files***'. Here are the results from VirusTotal as an alternative:
 
-* [MMReplayManager.exe] https://drive.google.com/uc?export=download&id=1iNHy_bNvPJ7ckbM_WgCDeJtlw3pjmnuX
+* [MMReplayManager] https://drive.google.com/uc?export=download&id=1iNHy_bNvPJ7ckbM_WgCDeJtlw3pjmnuX
 
 * [Install Wizard] https://drive.google.com/uc?export=download&id=16RjP304bsl8yAguYtUvh8JDaK43ppmM0
 
