@@ -1,28 +1,38 @@
 # MargaVB's Minion Masters Replays Manager
+
 This is a **tool** for the game '**Minion Masters**' ( (C) ***BetaDwarf*** ).
 
-## Download location(s)
+## Download *'MargaVB's Minion Masters Replays Manager **V0.50.3**'*:
 
-### GitHub
+* [Direct Download Here] https://drive.google.com/uc?export=download&id=15hCu8Xmbpas0AJGRCu3Mx_9VHKEJeUS8
+
+#### NOTE: The download from Google Drive may not be able to finish a virus scan properly. Here are the results from VirusTotal:
+
+* [MMReplayManager.exe] https://drive.google.com/uc?export=download&id=1iNHy_bNvPJ7ckbM_WgCDeJtlw3pjmnuX
+
+* [Install Wizard] https://drive.google.com/uc?export=download&id=16RjP304bsl8yAguYtUvh8JDaK43ppmM0
+
+    As you can see the ***'MargaVB's Minion Masters Replays Manager'*** **exe file** is **not flagged at all**.
+    The ***Install Wizards File*** is being flagged by only two malware detectors which are both known for **flagging eveything** that has not been uploaded to their whitelisting database. Of course they would like to charge developers for adding their software to the whitelist.
+
+## Important: Every new version of the tool will be available via this README file on this Github repository
 
 * https://github.com/MargaVB/MargaVB-s-Software-Vault
-
-### Google Drive
-
-(Send me an email to 'daddeln@ks-24-7.de' and I provide you with permissions for the download on my Google Drive)
 
 ## Purpose
 * select and delete replay files to reduce replay lists (the files are saved to backup folder(s))
 * get overall statistics for all matches since first start of this tool (all time wins/losses, all time winratio)
 * get statistics for a certain 'Master & Deck' combination of yours (wins/losses and winratio)
 * get info about all replays: own/opponents's master, deck and rank at that time, all wins/losses and winratio with that deck
-* mark a certain match replay with 1-5 stars (*, **, ...), e.g. because it was a great victory, a defeat from which to learn or whatever the motivation may be
+* mark a certain match replay with 1-5 stars (*, **, ...) [e.g. because it was a great victory, a defeat from which to learn or whatever the motivation may be]
 * search for a certain player name in the matches list and set the first match with that player name to the top of the list
 * use up/down buttons to display the next/previous match which has been fought against a certain foe
 * get a view at all your decks with the buttons 'My Best SOLO Decks' and 'My Best Team Decks'
 
-**IMPORTANT**:
+## IMPORTANT
+
 ***The tool does NO *cheating* at all!***
+
 Of every new replay file that appears in the official folder it just creates an instant copy to a working folder.
 The original file is **not** being touched in any other way!
 The copied replay file is then being parsed for infomation about '*Master & Deck*', '*Win or Loss*' and '*Rank*'.
