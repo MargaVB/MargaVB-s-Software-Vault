@@ -4,6 +4,10 @@ This is a **tool** for the game '**Minion Masters**' ( (C) ***BetaDwarf*** ).
 
 ## Every new version of the tool will be available via one of the following links:
 
+**Version 0.52.2:** [Direct Download Here](https://drive.google.com/uc?export=download&id=1ZBL6LFKECUQSGeD4mbLrww85IFSdsjLZ)
+
+or click on:
+
 1. [MargaVB's Discord](https://discord.gg/n4QDEBJ3) (and there on the tools channel)
 1. [The tools channel on MargaVB's Discord](https://discord.com/channels/1324449913207263233/1324456891685929011)
 1. [Github repository](https://github.com/MargaVB/MargaVB-s-Software-Vault)
