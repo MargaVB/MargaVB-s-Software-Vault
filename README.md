@@ -4,9 +4,13 @@ This is a **tool** for the game '**Minion Masters**' ( (C) ***BetaDwarf*** ).
 
 ## Every new version of the tool will be available via one of the following links:
 
-The download of MargaVB's Minion Masters Replays Manager V1.00.00 will be available
-**here**
-on *Saturday, March 22, 2025* at 10:00 PM Central European Time 
+**Version 1.00.1:** [Direct Download Here](https://drive.google.com/uc?export=download&id=1FIqhGtYM__Ztd1WqfDX2X4GD1CGId93V)
+
+or click on:
+
+1. [MargaVB's Discord](https://discord.com/channels/1324449913207263233/1324449913207263235) (and there on the tools channel)
+1. [The tools channel on MargaVB's Discord](https://discord.com/channels/1324449913207263233/1324456891685929011)
+1. [Github repository](https://github.com/MargaVB/MargaVB-s-Software-Vault)
 
 #### **NOTE**: The download from Google Drive may not be able to finish a virus scan properly. It only scans Documents, PDFs, and images, **not** '***.exe files***'. Here are the results from VirusTotal as an alternative:
 
