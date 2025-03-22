@@ -55,6 +55,9 @@ project-root/ (whatever it was named during installation)
             ├── *.png
         ├── *.png
         ├── Gimmicks
+            ├── *.png
+        ├── RankIcons
+            ├── *.png
     ├── Services/
         ├── ...
     ├── share/
