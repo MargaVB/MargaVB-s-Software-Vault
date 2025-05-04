@@ -4,7 +4,7 @@ This is a **tool** for the game '**Minion Masters**' ( (C) ***BetaDwarf*** ).
 
 ## Every new version of the tool will be available via one of the following links:
 
-**Version 1.01.3:** [Direct Download Here](https://drive.google.com/uc?export=download&id=1wJwOUfXnqkey0VnyzMUkOoTqSxOF4LjQ)
+**Version 1.01.5:** [Direct Download Here](https://drive.google.com/uc?export=download&id=1Kmg-6cEdc2DqCKdm4Ja8xmZLq2OhHq-G)
 
 or click on:
 
@@ -17,7 +17,7 @@ or click on:
 
 ![MMReplayManager.exe](https://github.com/MargaVB/MargaVB-s-Software-Vault/blob/main/VirusTotal_MMRM.png)
 
-![MargaVB's Minion Masters Replays Manager V1.01.3.exe](https://github.com/MargaVB/MargaVB-s-Software-Vault/blob/main/VirusTotal_MMRM_Wizard.png)
+![MargaVB's Minion Masters Replays Manager V1.01.5.exe](https://github.com/MargaVB/MargaVB-s-Software-Vault/blob/main/VirusTotal_MMRM_Wizard.png)
 
 ---
 
@@ -25,12 +25,12 @@ As you can see the ***'MargaVB's Minion Masters Replays Manager'*** **exe file**
 
 ## Purpose Of The Tool
 
-* select and delete replay files to reduce replay lists (the files are saved to backup folder(s))
 * get overall statistics for all matches since first start of this tool (all time wins/losses, all time winratio)
 * get statistics for a certain 'Master & Deck' combination of yours (wins/losses and win ratio)
 * get info about all replays: own/opponent's master, deck and rank at that time, all wins/losses and win ratio with that deck
 * mark a certain match replay with 1-5 stars (*, **, ...) [e.g. because it was a great victory, a defeat from which to learn or whatever the motivation may be]
-* search for a certain player name in the matches list and set the first match with that player name to the top of the list
+* delete matches (the most recent one, the ones marked by star(s), or delete all). All replays are moved to a backup folder, you can restore them
+* search for a certain player name in the matches list and scroll to the first entry with a match against that player
 * use up/down buttons to display the next/previous match which has been fought against a certain foe
 * get a view at all your decks with the buttons [*My Best SOLO Decks*] and [*My Best TEAM Decks*]
 
