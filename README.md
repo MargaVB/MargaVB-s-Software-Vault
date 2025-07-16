@@ -4,9 +4,9 @@ This is a **tool** for the game '**Minion Masters**' ( (C) ***BetaDwarf*** ).
 
 ## Every new version of the tool will be available via one of the following links:
 
-**Version 1.4.4:** [Direct Download Here](https://drive.google.com/uc?export=download&id=1MoNP4plr4S4E9pvuQU8CkOtVCRi7Uhir)
+**Version 1.4.4:** [Direct Download Here](https://drive.google.com/uc?export=download&id=17u5ob5WztAoUgLlxZh48IEBCs8ovDRRM)
 
-or click on: 
+or click on:
 
 1. [MargaVB's Discord](https://discord.gg/wTJzRUBMAD)
 1. [Github repository](https://github.com/MargaVB/MargaVB-s-Software-Vault)
