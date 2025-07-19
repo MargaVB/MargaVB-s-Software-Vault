@@ -4,7 +4,7 @@ This is a **tool** for the game '**Minion Masters**' ( (C) ***BetaDwarf*** ).
 
 ## Every new version of the tool will be available via one of the following links:
 
-**Version 1.4.4:** [Direct Download Here](https://drive.google.com/uc?export=download&id=17u5ob5WztAoUgLlxZh48IEBCs8ovDRRM)
+**Version 1.4.5:** [Direct Download Here](https://drive.google.com/uc?export=download&id=1eYEPSN67cCnhBu2LWd24w8T6jGsxZx1l)
 
 or click on:
 
@@ -17,7 +17,7 @@ or click on:
 
 ![MMReplayManager.exe](https://github.com/MargaVB/MargaVB-s-Software-Vault/blob/main/VirusTotal_MMRM.png)
 
-![MargaVB's Minion Masters Replays Manager V1.4.4.exe](https://github.com/MargaVB/MargaVB-s-Software-Vault/blob/main/VirusTotal_MMRM_Wizard.png)
+![MargaVB's Minion Masters Replays Manager V1.4.5.exe](https://github.com/MargaVB/MargaVB-s-Software-Vault/blob/main/VirusTotal_MMRM_Wizard.png)
 
 ---
 
@@ -98,6 +98,7 @@ C:\\Users\\[YOUR_USER_NAME]\\AppData\\LocalLow\\MinionMastersReplaysManager_[YOU
         ├── tmp
         ├── Winning
     ├── DeckStorage_2_0.data
+    ├── ELOStorage.data    
     ├── OpponentStatistics.data
     ├── ReplayFileInfoNew.data
     ├── StatisticReplays.data
@@ -110,6 +111,7 @@ C:\\Users\\[YOUR_USER_NAME]\\AppData\\LocalLow\\MinionMastersReplaysManager_[YOU
         ├── tmp
         ├── Winning
     ├── DeckStorage_2_0.data
+    ├── ELOStorage.data    
     ├── OpponentStatistics.data
     ├── ReplayFileInfoNew.data
     ├── StatisticReplays.data
@@ -122,6 +124,7 @@ C:\\Users\\[YOUR_USER_NAME]\\AppData\\LocalLow\\MinionMastersReplaysManager_[YOU
         ├── tmp
         ├── Winning
     ├── DeckStorage_2_0.data
+    ├── ELOStorage.data    
     ├── OpponentStatistics.data
     ├── ReplayFileInfoNew.data
     ├── StatisticReplays.data
@@ -134,6 +137,7 @@ C:\\Users\\[YOUR_USER_NAME]\\AppData\\LocalLow\\MinionMastersReplaysManager_[YOU
         ├── tmp
         ├── Winning
     ├── DeckStorage_2_0.data
+    ├── ELOStorage.data    
     ├── OpponentStatistics.data
     ├── ReplayFileInfoNew.data
     ├── StatisticReplays.data
