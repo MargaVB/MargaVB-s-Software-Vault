@@ -4,7 +4,7 @@ This is a **tool** for the game '**Minion Masters**' ( (C) ***BetaDwarf*** ).
 
 ## Every new version of the tool will be available via one of the following links:
 
-**Version 1.4.5:** [Direct Download Here](https://drive.google.com/uc?export=download&id=1eYEPSN67cCnhBu2LWd24w8T6jGsxZx1l)
+**Version 1.4.9:** [Direct Download Here](https://drive.google.com/uc?export=download&id=1BDrp08rkGsjQ0nffLYd9kP2gKM-Dt-Tf)
 
 or click on:
 
@@ -17,7 +17,7 @@ or click on:
 
 ![MMReplayManager.exe](https://github.com/MargaVB/MargaVB-s-Software-Vault/blob/main/VirusTotal_MMRM.png)
 
-![MargaVB's Minion Masters Replays Manager V1.4.5.exe](https://github.com/MargaVB/MargaVB-s-Software-Vault/blob/main/VirusTotal_MMRM_Wizard.png)
+![MargaVB's Minion Masters Replays Manager V1.4.9.exe](https://github.com/MargaVB/MargaVB-s-Software-Vault/blob/main/VirusTotal_MMRM_Wizard.png)
 
 ---
 
@@ -98,7 +98,7 @@ C:\\Users\\[YOUR_USER_NAME]\\AppData\\LocalLow\\MinionMastersReplaysManager_[YOU
         ├── tmp
         ├── Winning
     ├── DeckStorage_2_0.data
-    ├── ELOStorage.data    
+    ├── ELOStorage.data
     ├── OpponentStatistics.data
     ├── ReplayFileInfoNew.data
     ├── StatisticReplays.data
@@ -111,7 +111,7 @@ C:\\Users\\[YOUR_USER_NAME]\\AppData\\LocalLow\\MinionMastersReplaysManager_[YOU
         ├── tmp
         ├── Winning
     ├── DeckStorage_2_0.data
-    ├── ELOStorage.data    
+    ├── ELOStorage.data
     ├── OpponentStatistics.data
     ├── ReplayFileInfoNew.data
     ├── StatisticReplays.data
@@ -124,7 +124,7 @@ C:\\Users\\[YOUR_USER_NAME]\\AppData\\LocalLow\\MinionMastersReplaysManager_[YOU
         ├── tmp
         ├── Winning
     ├── DeckStorage_2_0.data
-    ├── ELOStorage.data    
+    ├── ELOStorage.data
     ├── OpponentStatistics.data
     ├── ReplayFileInfoNew.data
     ├── StatisticReplays.data
@@ -137,7 +137,7 @@ C:\\Users\\[YOUR_USER_NAME]\\AppData\\LocalLow\\MinionMastersReplaysManager_[YOU
         ├── tmp
         ├── Winning
     ├── DeckStorage_2_0.data
-    ├── ELOStorage.data    
+    ├── ELOStorage.data
     ├── OpponentStatistics.data
     ├── ReplayFileInfoNew.data
     ├── StatisticReplays.data
