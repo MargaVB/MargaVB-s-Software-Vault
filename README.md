@@ -4,7 +4,7 @@ This is a **tool** for the game '**Minion Masters**' ( (C) ***BetaDwarf*** ).
 
 ## Every new version of the tool will be available via one of the following links:
 
-**Version 1.4.9:** [Direct Download Here](https://drive.google.com/uc?export=download&id=14IG2pFrdPEBdoowg2FVRQyl-07TznrJq)
+**Version 1.4.11:** [Direct Download Here](https://drive.google.com/uc?export=download&id=1w1ZukyLJ1A-4nnjZDp8fxq69q4E94Oen)
 
 or click on:
 
@@ -17,7 +17,7 @@ or click on:
 
 ![MMReplayManager.exe](https://github.com/MargaVB/MargaVB-s-Software-Vault/blob/main/VirusTotal_MMRM.png)
 
-![MargaVB's Minion Masters Replays Manager V1.4.9.exe](https://github.com/MargaVB/MargaVB-s-Software-Vault/blob/main/VirusTotal_MMRM_Wizard.png)
+![MargaVB's Minion Masters Replays Manager V1.4.11.exe](https://github.com/MargaVB/MargaVB-s-Software-Vault/blob/main/VirusTotal_MMRM_Wizard.png)
 
 ---
 
@@ -28,7 +28,7 @@ As you can see the ***'MargaVB's Minion Masters Replays Manager'*** **exe file**
 * get overall statistics for all matches since first start of this tool (all time wins/losses, all time winratio)
 * get statistics for a certain 'Master & Deck' combination of yours (wins/losses and win ratio)
 * get info about all replays: own/opponent's master, deck and rank at that time, all wins/losses and win ratio with that deck
-* get info about the ELO values of players that took partition in a certain match (uses the website supported by Minion Masters)
+* ==>> NO LONGER AVAILABLE: get info about the ELO values of players that took partition in a certain match (the ELO website IS NO LONGER supported by Minion Masters)
 * get a view at all your decks with the buttons [*My Best SOLO Decks*] and [*My Best TEAM Decks*]
 * mark a certain match replay with 1-5 stars (*, **, ...) [e.g. because it was a great victory, a defeat from which to learn or whatever the motivation may be]
 * delete matches (the most recent one, the ones marked by star(s), or delete all). All replays are moved to a backup folder, you can restore them
