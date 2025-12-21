@@ -4,7 +4,7 @@ This is a **tool** for the game '**Minion Masters**' ( (C) ***BetaDwarf*** ).
 
 ## Every new version of the tool will be available via one of the following links:
 
-**Version 1.5.0:** [Direct Download Here](https://drive.google.com/uc?export=download&id=1R3o5g3b8_M23PA8naBknWR_3Le7nLj9a)
+**Version 1.5.0:** [Direct Download Here](https://drive.google.com/uc?export=download&id=1cMmiRD_O9d6IlGtzpouS6fv-C6hYZqTa)
 
 or click on:
 
