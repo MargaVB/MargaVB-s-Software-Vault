@@ -4,11 +4,11 @@ This is a **tool** for the game '**Minion Masters**' ( (C) ***BetaDwarf*** ).
 
 ## Every new version of the tool will be available via one of the following links:
 
-**Version 1.5.2:** [Direct Download Here](https://drive.google.com/uc?export=download&id=18A05MSxtApSju9Nvf6PzyBySP_1uszai)
+**Version 1.5.3:** [Direct Download Here](https://drive.google.com/uc?export=download&id=1peoTEleocSpjvqnt2IKzVMJrkNEfBsTe)
 
 or click on:
 
-1. [MargaVB's Discord](https://discord.gg/wTJzRUBMAD)
+1. [MargaVB's Discord](https://discord.gg/e8v8EYuv)
 1. [Github repository](https://github.com/MargaVB/MargaVB-s-Software-Vault)
 
 #### **NOTE**: The download from Google Drive may not be able to finish a virus scan properly. It only scans Documents, PDFs, and images, **not** '***.exe files***'. Here are the results from VirusTotal as an alternative:
@@ -17,7 +17,7 @@ or click on:
 
 ![MMReplayManager.exe](https://github.com/MargaVB/MargaVB-s-Software-Vault/blob/main/VirusTotal_MMRM.png)
 
-![MargaVB's Minion Masters Replays Manager V1.5.2.exe](https://github.com/MargaVB/MargaVB-s-Software-Vault/blob/main/VirusTotal_MMRM_Wizard.png)
+![MargaVB's Minion Masters Replays Manager V1.5.3.exe](https://github.com/MargaVB/MargaVB-s-Software-Vault/blob/main/VirusTotal_MMRM_Wizard.png)
 
 ---
 
