@@ -4,11 +4,11 @@ This is a **tool** for the game '**Minion Masters**' ( (C) ***BetaDwarf*** ).
 
 ## Every new version of the tool will be available via one of the following links:
 
-**Version 1.5.6:** [Direct Download Here](https://drive.google.com/file/d/1yrZdwfUWBk4HimFAekw-uaKMuDSlhw0s/view?usp=drive_link)
+**Version 1.5.6:** [Direct Download Here](https://drive.google.com/file/d/1zNSiaRbJPPuVsBnDk6D284lFWQ6SgvHV/view?usp=drive_link)
 
 or click on:
 
-1. [MargaVB's Discord](https://discord.gg/Na3GdZyf2)
+1. [MargaVB's Discord](https://discord.gg/wTJzRUBMAD)
 1. [Github repository](https://github.com/MargaVB/MargaVB-s-Software-Vault)
 
 #### **NOTE**: The download from Google Drive may not be able to finish a virus scan properly. It only scans Documents, PDFs, and images, **not** '***.exe files***'. Here are the results from VirusTotal as an alternative:
