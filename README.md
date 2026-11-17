@@ -4,7 +4,7 @@ This is a **tool** for the game '**Minion Masters**' ( (C) ***BetaDwarf*** ).
 
 ## Every new version of the tool will be available via one of the following links:
 
-**Version 1.6.3:** [Direct Download Here](https://drive.google.com/file/d/1XQdhs9_CGKZFX3qTC5bjGOim5ba9qN8X/view?usp=drive_link)
+**Version 1.6.4:** [Direct Download Here](https://drive.google.com/file/d/1tMaB7ZB4vXCLIQQ1thnsKFxc10gUdZA-/view?usp=drive_link)
 
 or click on:
 
@@ -17,7 +17,7 @@ or click on:
 
 ![MMReplayManager.exe](https://github.com/MargaVB/MargaVB-s-Software-Vault/blob/main/VirusTotal_MMRM.png)
 
-![MargaVB's Minion Masters Replays Manager V1.6.3.exe](https://github.com/MargaVB/MargaVB-s-Software-Vault/blob/main/VirusTotal_MMRM_Wizard.png)
+![MargaVB's Minion Masters Replays Manager V1.6.4.exe](https://github.com/MargaVB/MargaVB-s-Software-Vault/blob/main/VirusTotal_MMRM_Wizard.png)
 
 ---
 
